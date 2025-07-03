@@ -18,4 +18,4 @@ google-search-clone/
 ├── index.html # Main HTML structure
 ├── styles.css # All visual styling
 └── google.png # Logo image
-```
+``` 
