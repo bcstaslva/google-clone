@@ -13,7 +13,9 @@ Built to practice layout, spacing, and visual design using clean, accessible cod
 
 ## 📁 File Structure
 
+```
 google-search-clone/
 ├── index.html # Main HTML structure
 ├── styles.css # All visual styling
 └── google.png # Logo image
+```
